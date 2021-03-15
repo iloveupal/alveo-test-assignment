@@ -1,0 +1,9 @@
+2016-09-20 16:23:10,994 INFO Some info message
+2016-09-20 16:23:11,994 INFO Some other info message
+2016-09-20 16:23:12,994 WARNING Some warning message
+2016-09-20 16:23:13,994 WARNING Some other warning message
+2016-09-20 16:23:15,994 ERROR error test
+2016-09-20 16:23:16,994 ERROR WARNING ERROR
+2016-09-20 16:23:18,994 WARNING yet new message
+2016-09-20 16:23:19,994 ERROR this one you haven't seen yet
+2016-09-20 16:23:20,994 INFO this is def the newest

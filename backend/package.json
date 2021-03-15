@@ -1,0 +1,15 @@
+{
+  "name": "alveo-test-assignment-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "md5-file": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

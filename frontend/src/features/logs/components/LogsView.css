@@ -1,0 +1,6 @@
+.LogsView-Container {
+  position: absolute;
+  top: 80px;
+  font-family: monospace;
+  padding: 15px;
+}
